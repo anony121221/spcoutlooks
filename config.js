@@ -1,3 +1,3 @@
 window.SPC_CONFIG = {
-  apiBase: 'https://replace-with-your-worker.example.workers.dev'
+  apiBase: 'https://spc-outlook-worker.c1483952.workers.dev/'
 };
